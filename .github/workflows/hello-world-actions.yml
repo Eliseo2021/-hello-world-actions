@@ -22,4 +22,4 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Say Goodbye
-        run: | echo Job Finished. echo Goodbye!
+        run: echo Job Finished. echo Goodbye!
